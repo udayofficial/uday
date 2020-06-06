@@ -1,0 +1,30 @@
+div {
+  border-color: black;
+  height: 200px;
+  width: 200px;
+
+}
+.top-container{
+
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+/* .top-container {
+  background-color: #EAF6F6;
+  border: solid 10px;
+  padding: 20px;
+}
+.middle-container {
+  background-color: red;
+  border: solid 20px;
+  margin-left: 260px;
+}
+.bottom-container {
+  background-color: blue;
+  border: solid 10px;
+  margin-left: 500px;
+} */
